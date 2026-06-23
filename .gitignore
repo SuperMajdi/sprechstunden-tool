@@ -1,0 +1,21 @@
+# Nuxt
+.nuxt/
+.output/
+dist/
+
+# Env — NEVER commit real credentials
+.env
+# .env.submit IS committed intentionally for assessment
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
